@@ -1,0 +1,10 @@
+# Dataset (baixado automaticamente pelo torchvision)
+vae-fashion/vae-fashion/data/
+
+# Duplicata compactada da pasta results/
+vae-fashion/vae-fashion/results.zip
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
